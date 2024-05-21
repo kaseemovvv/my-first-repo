@@ -1,0 +1,4 @@
+salam salam salam
+for (int i = 0; i <= 9; i++) {
+sout
+}
